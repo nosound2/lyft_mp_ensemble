@@ -1,6 +1,4 @@
 
-![alt text](https://imgur.com/a9cosPU.png "demonstration image")
-
 # lyft_mp_ensemble
 Ensembling function for multi-trajectory motion prediction for autonomous vehicles
 
@@ -22,3 +20,5 @@ Running of this notebook requires individual model submission files. The first a
 
 * [1st place](https://www.kaggle.com/ilu000/lyft-submission-csvs)
 * [9th place](https://www.kaggle.com/zaharch/lyft-submission-csvs-9th-place)
+
+![alt text](https://imgur.com/a9cosPU.png "demonstration image")
